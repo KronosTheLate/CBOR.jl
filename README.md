@@ -30,7 +30,7 @@ using CBOR
 
 ### Encoding and Decoding
 
-Encoding and decoding follow the simple pattern
+Encoding and decoding follows the simple pattern
 
 ```julia
 bytes = encode(data)
